@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/Snake.dir/main.cpp.o CMakeFiles/Snake.dir/Point.cpp.o CMakeFiles/Snake.dir/Snake.cpp.o CMakeFiles/Snake.dir/Menu.cpp.o  -o Snake 

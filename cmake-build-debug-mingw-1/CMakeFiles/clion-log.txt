@@ -1,0 +1,4 @@
+"E:\CLion 2019.2.4\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Snake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Snake/cmake-build-debug-mingw-1

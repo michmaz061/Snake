@@ -1,0 +1,55 @@
+The system is: Linux - 4.4.0-18362-Microsoft - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_afb4f/fast && /usr/bin/make -f CMakeFiles/cmTC_afb4f.dir/build.make CMakeFiles/cmTC_afb4f.dir/build
+make[1]: Entering directory '/mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_afb4f.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_afb4f.dir/testCCompiler.c.o   -c /mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_afb4f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_afb4f.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_afb4f.dir/testCCompiler.c.o  -o cmTC_afb4f 
+make[1]: Leaving directory '/mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_54bdb/fast && /usr/bin/make -f CMakeFiles/cmTC_54bdb.dir/build.make CMakeFiles/cmTC_54bdb.dir/build
+make[1]: Entering directory '/mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_54bdb.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_54bdb.dir/testCXXCompiler.cxx.o -c /mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_54bdb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_54bdb.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_54bdb.dir/testCXXCompiler.cxx.o  -o cmTC_54bdb 
+make[1]: Leaving directory '/mnt/e/Snake/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+
+
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/Snake/head.cpp
+iostream
+-
+conio.h
+-
+windows.h
+-
+ctime
+-
+chrono
+-
+head.h
+/mnt/e/Snake/head.h
+
+/mnt/e/Snake/head.h
+iostream
+-
+conio.h
+-
+windows.h
+-
+ctime
+-
+fstream
+-
+chrono
+-
+
+/mnt/e/Snake/main.cpp
+conio.h
+-
+windows.h
+-
+ctime
+-
+head.h
+/mnt/e/Snake/head.h
+
